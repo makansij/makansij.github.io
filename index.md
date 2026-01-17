@@ -1,7 +1,7 @@
 # Jordan Makansi
 
 Quantum optimization and software engineer.
-[About](#about-me) · [Experience](#experience) · [Publications](#publications) · [Projects](#projects) · [Education](#education) · [Contact](#contact)
+[Home](/) · [Projects](/projects.html) · [Experience](/experience.html) · [Education](/education.html)
 
 ---
 
