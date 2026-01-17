@@ -34,3 +34,18 @@
 
 - **IBM Certified Quantum Computation using Qiskit v2.X Developer – Associate**  
   *Issued Sep 2025 · Credential ID C9008400*
+
+---
+
+## Skills & Expertise
+
+**Technical Skills:**  
+Python, C++, IBM Certified Developer – Qiskit, D-Wave, CUDA, High Performance
+Computing, SciPy/NumPy, Pyomo, SCIP, Gurobi, CPLEX, TensorFlow, TensorNetwork,
+scikit-learn, NetworkX.
+
+**Expertise:**  
+Quantum Optimization Algorithms, Hybrid Classical/Quantum Optimization
+Algorithms, Quantum Computing, Quantum Information Theory, Combinatorial
+Optimization, Algorithm Analysis and Design, Mathematical Modeling, Numerical
+Simulation.
