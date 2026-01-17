@@ -1,6 +1,6 @@
 # Experience
 
-[Home](/) · [Projects](/projects.html) · [Experience](/experience.html) · [Education](/education.html)
+[Home](/) · [Projects](/projects.html) · [Experience](/experience.html) · [Education](/education.html) · [Papers](/papers.html)
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Classical/Quantum Algorithms for Network Optimization
+## Quantum Algorithms Researcher
 *Aug 2020 – June 2024*  
 PWICE Institute of USC · Los Angeles, CA
 
@@ -30,8 +30,7 @@ PWICE Institute of USC · Los Angeles, CA
   nodes, implemented using Pyomo and NumPy.
 - Achieved ≥ 50% speedup over Gurobi with tuned parameters on all tested
   instance types with > 25 nodes, while maintaining an empirical approximation
-  ratio < 2.0 and a provable exponential asymptotic scaling advantage (see
-  Publications).
+  ratio < 2.0 and a provable exponential asymptotic scaling advantage.
 
 ### Quantum Optimization
 
@@ -42,11 +41,11 @@ PWICE Institute of USC · Los Angeles, CA
   similar time as state-of-the-art methods.
 - Obtained computational results for graph problems of 50 nodes using Qiskit
   and C++ on a high-performance computing cluster to produce software
-  deliverables for PWICE stakeholders (see Publications).
+  deliverables for PWICE stakeholders.
 
 ---
 
-## Optimization of Energy Systems
+## Senior Research Engineer - Optimization
 *Dec 2017 – Aug 2020*  
 Veritone Inc.
 
@@ -62,7 +61,7 @@ Veritone Inc.
 
 ---
 
-## Optimization of Feature Selection
+## Software Engineer - Optimization
 *Dec 2016 – Dec 2017*  
 eSentire Inc.
 
