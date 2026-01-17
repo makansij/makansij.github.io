@@ -40,4 +40,8 @@
 
 - **Managing Coordinated Improvement Of Control Operations For Multiple Electrical Devices to Reduce Power Dissipation**  
   *W. Kohn, J. Makansi, & Y. Shen, U.S. Patent No. 10,816,949, 2020. Washington, DC: U.S. Patent and Trademark Office.*  
-  [View on Google Patents](https://p)
+  [View on Google Patents](https://patents.google.com/patent/US10816949B1)
+
+- **Controlling Ongoing Battery System Usage While Repeatedly Reducing Power Dissipation**  
+  *W. Kohn, J. Makansi, & Y. Shen, U.S. Patent No. 10,452,045, 2019. Washington, DC: U.S. Patent and Trademark Office.*  
+  [View on Google Patents](https://patents.google.com/patent/US10452045B1)
