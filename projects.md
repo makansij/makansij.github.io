@@ -6,6 +6,8 @@
 
 ## A Greedy Quantum Route-Generation Algorithm for Vehicle Routing
 
+![Fleet size vehicle routing problem formulation and computational results](A_Greedy_Quantum_Route-Generation_Algorithm.png)
+
 Greedy, noise-robust QAOA variant for constrained vehicle routing problems that
 exploits correlations between sampled bitstrings to guide route construction.
 
