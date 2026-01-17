@@ -23,7 +23,7 @@ exploits correlations between sampled bitstrings to guide route construction.
 **Paper:** [arXiv:2405.03054](https://arxiv.org/abs/2405.03054)  
 **Code:** [GitHub repo](https://github.com/makansij/A_Greedy_Quantum_Route-Generation_Algorithm)
 
-**Conference Presentation Slides:** [Project presentation](https://docs.google.com/presentation/d/1YIK_EFunaypRktvgGYcguHoCJ38KloZCanklNHuY_QQ)
+**Presentation Slides:** [Project presentation](https://docs.google.com/presentation/d/1YIK_EFunaypRktvgGYcguHoCJ38KloZCanklNHuY_QQ)
 
 ---
 
