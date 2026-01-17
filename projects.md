@@ -28,6 +28,7 @@ exploits correlations between sampled bitstrings to guide route construction.
 ---
 
 ## A Set Cover Mapping Heuristic for Demand-Robust Fleet Size VRP
+![Demand-Robust Fleet Size and Routing](Demand-Robust_Fleet_Size_and_Routing.png)
 
 Multi-year research effort on a practical, constrained optimization problem:
 the demand-robust fleet size vehicle routing problem with time windows and
