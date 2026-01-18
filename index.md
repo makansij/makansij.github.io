@@ -3,12 +3,12 @@
 Quantum optimization and software engineer.
 [Home](/) · [Projects](/projects.html) · [Experience](/experience.html) · [Education](/education.html) · [Papers/Patents](/papers.html)
 ---
-<p>
-  <img src="Headshot.jpg"
-       alt="Jordan Makansi"
-       width="160"
-       style="float:left; margin-right:20px; border-radius:50%;" />
-</p>
+
+<img src="Headshot.jpb"
+     alt="Jordan Makansi"
+     width="160"
+     style="float:left; margin-right:20px; border-radius:50%;" />
+
 
 
 ## About
