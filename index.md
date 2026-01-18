@@ -13,12 +13,11 @@ Quantum optimization and software engineer.
 
 ## About
 
-I work on NISQ-era algorithms (QAOA, LR-QAOA), noise-aware benchmarking, and
-practical applications such as vehicle routing, robust fleet sizing, and
-low-autocorrelation binary sequences. My background spans classical and quantum
-algorithms, high-performance computing, and industrial R&D, and I’m an IBM
-Certified Qiskit Developer and Qiskit Advocate.
+Jordan Makansi is a quantum algorithms researcher/engineer specializing in NISQ-era methods and the translation of frontier ideas into reproducible analyses, benchmark studies, and decision-relevant technical conclusions. His work emphasizes variational algorithms such as QAOA and LR-QAOA, with a strong focus on noise-aware benchmarking: designing end-to-end QPU evaluation workflows that span circuit construction, compilation, execution, and statistical analysis to produce benchmark-driven guidance on backend and approach selection. He also conducts rigorous literature reviews of emerging quantum algorithms and synthesizes findings into publication-quality technical reports, including work that became the most-viewed article of the month.
 
+Across a multi-year research program, he developed algorithmic approaches for practical, constrained optimization at the interface of classical and quantum computing. His applied portfolio includes vehicle routing under uncertainty, where he formulates demand-robust fleet sizing and routing with time windows/compatibility as a robust weighted set-cover problem and demonstrates strong performance on standard Solomon benchmark instances (up to 100 nodes), including ≥50% runtime speedups relative to tuned commercial solvers while preserving high solution quality. He has also contributed methods for low-autocorrelation binary sequences, including correlation-exploiting QAOA-style approaches that achieve feasible solutions without post-processing and substantially reduce optimality gaps.
+
+He holds an Engineer’s Degree from the University of Southern California, M.S. degrees in Applied Mathematics and Systems Engineering, and a B.S. from Bucknell University. He is IBM Certified in Qiskit v2.0 and an IBM Qiskit Advocate, and has taught quantum computing and Qiskit through Black Hoodie Quantum’s course offerings.
 ---
 
 ## Links
