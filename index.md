@@ -17,8 +17,8 @@ Certified Qiskit Developer and Qiskit Advocate.
 
 ## Links
 
-- GitHub: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- GitHub: [github.com/YOURUSERNAME](https://github.com/makansij)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jordan-makansi/)
 - Papers & Patents: [View list](/papers.html)
 
 ---
@@ -27,7 +27,7 @@ Certified Qiskit Developer and Qiskit Advocate.
 
 You can download my full CV here:
 
-- [Download CV](Jordan_Makansi_CV.pdf)
+- [Download CV](Jordan_Makansi_Full_Resume_2026.pdf)
 
 ---
 
