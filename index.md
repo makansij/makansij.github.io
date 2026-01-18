@@ -5,113 +5,34 @@ Quantum optimization and software engineer.
 ---
 
 
+## About
+
 I work on NISQ-era algorithms (QAOA, LR-QAOA), noise-aware benchmarking, and
-practical applications like LABS, routing, and portfolio-type problems.
+practical applications such as vehicle routing, robust fleet sizing, and
+low-autocorrelation binary sequences. My background spans classical and quantum
+algorithms, high-performance computing, and industrial R&D, and I’m an IBM
+Certified Qiskit Developer and Qiskit Advocate.
 
-## Selected Projects
+---
 
-### A Greedy Quantum Route-Generation Algorithm for Vehicle Routing
+## Links
 
-Greedy, noise-robust QAOA variant for constrained vehicle routing problems that
-exploits correlations between sampled bitstrings to guide route construction.
+- GitHub: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- Papers & Patents: [View list](/papers.html)
 
-- Designed a noise-robust QAOA for constrained optimization problems which
-  exploits correlation between samples, and provably converges to a feasible
-  solution without post-processing.
-- Showed the proposed algorithm obtains an ~80% lower optimality gap, in
-  comparable time to state-of-the-art classical and quantum-inspired methods.
-- Obtained computational results for graph instances up to 50 nodes using
-  Qiskit and C++ on a high-performance computing cluster to deliver software
-  artifacts for PWICE stakeholders.
+---
 
-**Paper:** [arXiv:2405.03054](https://arxiv.org/abs/2405.03054)  
-**Code:** [GitHub repo](https://github.com/makansij/A_Greedy_Quantum_Route-Generation_Algorithm)
+## CV
 
-### A Set Cover Mapping Heuristic for Demand-Robust Fleet Size VRP
+You can download my full CV here:
 
-Multi-year research effort on a practical, constrained optimization problem:
-the demand-robust fleet size vehicle routing problem with time windows and
-compatibility constraints. Combines robust optimization, set cover, and
-large-scale computational experiments.
+- [Download CV](Jordan_Makansi_CV.pdf)
 
-- Successfully executed a multi-year research project from grant-writing
-  through state-of-the-art classical and quantum solution methods for practical
-  constrained optimization problems, resulting in papers in both classical and
-  quantum computing.
-- Developed a novel classical algorithm for a demand-robust fleet size vehicle
-  routing problem by mapping the problem to set cover in polynomial time.
-- Validated performance on Solomon benchmark instances with up to 100 nodes,
-  implemented using Pyomo and NumPy.
-- Achieved ≥50% speedup over Gurobi with tuned parameters on all tested
-  instance types with >25 nodes, while maintaining an empirical approximation
-  ratio < 2.0 and a provable exponential asymptotic scaling advantage.
+---
 
-**Paper:** [A Set Cover Mapping Heuristic for the Demand-Robust Fleet Size Vehicle Routing Problem](https://arxiv.org/abs/2406.07719)  
-**Code:** [GitHub repo](https://github.com/makansij/A_Set_Cover_Mapping_Heuristic_for_Demand-Robust_Fleet_Size_Vehicle_Routing_Problem)
+## Contact
 
-## Experience
+To reduce scraping, my email is shown as an image:
 
-### Independent Consultant – Quantum Computing
-*June 2024 – Present*
-
-- Conducted analysis and authored reports on NISQ-era quantum algorithms for
-  **The Quantum Insider** and **Quantum Computing Report**.
-- Consulted for software projects in quantum algorithms and quantum
-  optimization on current QPU hardware.
-
-### Quantum Algorithms Researcher
-*Aug 2020 – June 2024*  
-PWICE Institute of USC · Los Angeles, CA
-
-#### Classical Optimization
-
-- Successfully executed a multi-year research project from grant-writing
-  through developing state-of-the-art classical and quantum solutions to
-  practical constrained optimization problems, resulting in papers in both
-  classical and quantum computing.
-- Developed a novel classical algorithm for solving a robust optimization
-  problem by mapping it to set cover.
-- Validated performance using Solomon benchmark instances with up to 100
-  nodes, implemented using Pyomo and NumPy.
-- Achieved ≥ 50% speedup over Gurobi with tuned parameters on all tested
-  instance types with > 25 nodes, while maintaining an empirical approximation
-  ratio < 2.0 and a provable exponential asymptotic scaling advantage .
-
-#### Quantum Optimization
-
-- Designed a noise-robust QAOA for constrained optimization problems which
-  exploits correlation between samples and provably converges to a feasible
-  solution without post-processing.
-- Showed the proposed algorithm obtains an 80% lower optimality gap, in
-  similar time as state-of-the-art methods.
-- Obtained computational results for graph problems of 50 nodes using Qiskit
-  and C++ on a high-performance computing cluster to produce software
-  deliverables for PWICE stakeholders.
-
-### Senior Research Engineer - Optimization
-*Dec 2017 – Aug 2020*  
-Veritone Inc.
-
-- Designed and implemented optimization algorithms for coordinating
-  multi-agent energy systems, resulting in patented technology and commercial
-  deployment as **Veritone CDI** on Microsoft AppSource.
-- Built a symbolic interface in SymPy for formulating and solving optimal
-  control problems via Hamiltonian dynamics, enabling constraint-aware
-  optimization from real-world data.
-- Integrated a C++-based numerical optimization engine with real-time
-  simulation tools (NumPy, SimPy, SciPy) and scaled performance using
-  containerized deployments on Azure HPC clusters.
-
-### Software Engineer - Optimization
-*Dec 2016 – Dec 2017*  
-eSentire Inc.
-
-- Collaborated with security domain experts to design threat detection as an
-  optimization problem, successfully detecting three “beaconing” behaviors for
-  the company’s first two customers.
-- Formulated optimization problems to automatically design impactful features
-  from lexicographic data, overseeing development from raw data extraction to
-  results in a customer-facing UI.
-- Owned several daily pipelines processing ~50 GB per day of customer proxy
-  and DNS logs using Apache Spark and YARN across several pilot sites, two of
-  which became the company’s second and third paying customers.
+![Email address](email.png)
