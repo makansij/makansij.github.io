@@ -18,6 +18,7 @@ Jordan Makansi is a quantum algorithms researcher/engineer specializing in NISQ-
 Across a multi-year research program, he developed algorithmic approaches for practical, constrained optimization at the interface of classical and quantum computing. His applied portfolio includes vehicle routing under uncertainty, where he formulates demand-robust fleet sizing and routing with time windows/compatibility as a robust weighted set-cover problem and demonstrates strong performance on standard Solomon benchmark instances (up to 100 nodes), including ≥50% runtime speedups relative to tuned commercial solvers while preserving high solution quality. He has also contributed methods for low-autocorrelation binary sequences, including correlation-exploiting QAOA-style approaches that achieve feasible solutions without post-processing and substantially reduce optimality gaps.
 
 He holds an Engineer’s Degree from the University of Southern California, M.S. degrees in Applied Mathematics and Systems Engineering, and a B.S. from Bucknell University. He is IBM Certified in Qiskit v2.0 and an IBM Qiskit Advocate, and has taught quantum computing and Qiskit through Black Hoodie Quantum’s course offerings.
+
 ---
 
 ## Links
