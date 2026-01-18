@@ -24,7 +24,7 @@ exploits correlations between sampled bitstrings to guide route construction.
 **Code:** [GitHub repo](https://github.com/makansij/A_Greedy_Quantum_Route-Generation_Algorithm)
 
 **Presentation Slides:** [Project presentation](https://docs.google.com/presentation/d/1YIK_EFunaypRktvgGYcguHoCJ38KloZCanklNHuY_QQ)
-
+**Conference Poster (PDF):** [Download](Conference_Poster.pdf)
 ---
 
 ## A Set Cover Mapping Heuristic for Demand-Robust Fleet Size VRP
