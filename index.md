@@ -10,6 +10,7 @@ Quantum optimization and software engineer.
        style="float:left; margin-right:20px; border-radius:50%;" />
 </p>
 
+
 ## About
 
 I work on NISQ-era algorithms (QAOA, LR-QAOA), noise-aware benchmarking, and
