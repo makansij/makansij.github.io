@@ -1,6 +1,6 @@
 # Projects
 
-[Home](/) · [Projects](/projects.html) · [Experience](/experience.html) · [Education](/education.html)
+[Home](/) · [Projects](/projects.html) · [Experience](/experience.html) · [Education](/education.html)· [Papers/Patents](/papers.html)
 
 ---
 
